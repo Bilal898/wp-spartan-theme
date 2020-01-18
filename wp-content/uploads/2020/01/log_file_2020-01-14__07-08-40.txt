@@ -1,0 +1,23 @@
+
+---Upload files---
+Widget file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/spartans
+Data file = C:\xampp\htdocs\spartans/wp-content/uploads/2020/01/covernews-4.xml
+Widget file = not defined!
+Customizer file = C:\xampp\htdocs\spartans/wp-content/uploads/2020/01/covernews.dat
+Redux files:
+not defined!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
